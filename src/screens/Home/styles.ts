@@ -10,8 +10,9 @@ export const Container = styled.div`
 `;
 
 export const Img = styled.img`
-  max-width: 40rem;
   margin: 1rem;
+  max-width: 90%;
+  width: 720px;
 `;
 
 export const BoxesRow = styled.div`
